@@ -1,0 +1,2 @@
+allow untrusted_app devpts chr_file { read write open ioctl getattr }
+allow magisk devpts chr_file { read write open ioctl getattr }
