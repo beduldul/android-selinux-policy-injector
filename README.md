@@ -20,4 +20,4 @@ A Magisk and KernelSU module for Android 15 & 16 designed to automate pseudo-ter
 ---
 
 ## License
-GPL-3.0 License
+MIT License
