@@ -1,3 +1,4 @@
+[![shellcheck](https://github.com/beduldul/android-selinux-policy-injector/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/beduldul/android-selinux-policy-injector/actions/workflows/shellcheck.yml)
 # Universal Android SELinux Policy Injector & PTY Permission Engine
 
 A Magisk and KernelSU module for Android 15 & 16 designed to automate pseudo-terminal (`/dev/pts`) mount permission fixes (`mode=666`) and inject live SELinux policies (`magiskpolicy`).
